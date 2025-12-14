@@ -19,8 +19,7 @@ Email Me 👉 ✉️ **pratik.kumar8651@gmail.com** For Collaboration/Project or
 
 ## 🏅 Certifications
 
-[![Credly Badge](https://images.credly.com/size/340x340/images/<img width="300" height="300" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />
-.png)](https://www.credly.com/badges/your-badge-id)
+[![Credly Badge]<img width="300" height="300" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />.png)]
 
 
 
