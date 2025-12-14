@@ -15,7 +15,23 @@ Email Me 👉 ✉️ **pratik.kumar8651@gmail.com** For Collaboration/Project or
  ### 🔗 Exploring Data.Creating value.Solving Problem.Scale every day.. 
 
 # 🌐 Socials Link:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kumar-23247123a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.kumar8651@gmail.com) [![Badge](https://www.credly.com/badges/c4f1f236-34dd-46cc-a6d4-e6f670756860/public_url)](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c4f1f236-34dd-46cc-a6d4-e6f670756860" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kumar-23247123a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.kumar8651@gmail.com) 
+
+<h2>🏅 Certifications</h2>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/badge-id="c4f1f236-34dd-46cc-a6d4-e6f670756860" target="_blank">
+    <img 
+      src="https://images.credly.com/images/<img width="600" height="600" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/5528e560-3da8-440e-ae75-90c71f471bcb" />
+.png"
+      alt="Credly Certification Badge"
+      width="120"
+    />
+  </a>
+</p>
+
+
+
 
 # 💻 Tech Stack:
 ### SQL
