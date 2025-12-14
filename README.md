@@ -18,8 +18,8 @@ Email Me 👉 ✉️ **pratik.kumar8651@gmail.com** For Collaboration/Project or
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kumar-23247123a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.kumar8651@gmail.com) 
 
 ## 🏅 Certifications
-
-[![Credly Badge]<img width="300" height="300" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />.png)]
+<img width="150" height="150" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />
+<img width="150" height="150" alt="data-science-essentials-with-python (2)" src="https://github.com/user-attachments/assets/3d6ebc40-d82c-4abe-8fc6-a812119fcc0f" />
 
 
 
