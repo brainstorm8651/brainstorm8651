@@ -20,7 +20,7 @@ Email Me 👉 ✉️ **pratik.kumar8651@gmail.com** For Collaboration/Project or
 ## 🏅 Certifications
 <img width="150" height="150" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />
 <img width="150" height="150" alt="data-science-essentials-with-python (2)" src="https://github.com/user-attachments/assets/3d6ebc40-d82c-4abe-8fc6-a812119fcc0f" />
-<img width="150" height="150" alt="(https://github.com/user-attachments/assets/81f6f1a1-8d3c-46bc-aae9-1f0c98c48d0d" />
+<img width="150" height="150" alt="prompt to prototype src=https://github.com/user-attachments/assets/81f6f1a1-8d3c-46bc-aae9-1f0c98c48d0d" />
 
 
 
