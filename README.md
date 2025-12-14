@@ -17,18 +17,10 @@ Email Me 👉 ✉️ **pratik.kumar8651@gmail.com** For Collaboration/Project or
 # 🌐 Socials Link:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-kumar-23247123a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratik.kumar8651@gmail.com) 
 
-<h2>🏅 Certifications</h2>
+## 🏅 Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/badge-id="c4f1f236-34dd-46cc-a6d4-e6f670756860" target="_blank">
-    <img 
-      src="https://images.credly.com/images/<img width="600" height="600" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/5528e560-3da8-440e-ae75-90c71f471bcb" />
-.png"
-      alt="Credly Certification Badge"
-      width="120"
-    />
-  </a>
-</p>
+[![Credly Badge](https://images.credly.com/size/340x340/images/<img width="300" height="300" alt="mckinsey-org-forward-program" src="https://github.com/user-attachments/assets/de750b2a-6a73-42c4-afd8-a4efb3051abc" />
+.png)](https://www.credly.com/badges/your-badge-id)
 
 
 
